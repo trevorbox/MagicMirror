@@ -9,12 +9,7 @@ npm run start
 
 ## calendar module
 
-<https://github.com/MMRIZE/MMM-CalendarExt3>
-
 ```sh
-cd modules
-git clone https://github.com/MMRIZE/MMM-CalendarExt3
-cd MMM-CalendarExt3
-npm install
+git submodule add https://github.com/kolbyjack/MMM-MonthlyCalendar.git modules/MMM-MonthlyCalendar
 git submodule update --init --recursive
 ```
