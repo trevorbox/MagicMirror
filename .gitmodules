@@ -1,3 +1,6 @@
 [submodule "modules/MMM-MonthlyCalendar"]
 	path = modules/MMM-MonthlyCalendar
 	url = https://github.com/kolbyjack/MMM-MonthlyCalendar.git
+[submodule "modules/MMM-RAIN-MAP"]
+	path = modules/MMM-RAIN-MAP
+	url = https://github.com/jalibu/MMM-RAIN-MAP

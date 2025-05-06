@@ -66,6 +66,10 @@ Temporary Items
 # custom
 !/modules/MMM-MonthlyCalendar
 !/modules/MMM-MonthlyCalendar/**
+!/modules/MMM-RAIN-MAP
+!/modules/MMM-RAIN-MAP/**
+# !/modules/MMM-GooglePhotos
+# !/modules/MMM-GooglePhotos/**
 
 # Ignore changes to the custom css files but keep the sample and main.
 /css/*
@@ -75,9 +79,6 @@ Temporary Items
 # Ignore users config file but keep the sample.
 /config/*
 !/config/config.js.sample
-
-# custom
-!/config/config.js
 
 # Vim
 ## swap
