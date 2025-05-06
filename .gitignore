@@ -63,6 +63,11 @@ Temporary Items
 !/modules/default/**
 !/modules/README.md**
 
+!/modules/MMM-MonthlyCalendar
+!/modules/MMM-MonthlyCalendar/**
+!/modules/MMM-RAIN-MAP
+!/modules/MMM-RAIN-MAP/**
+
 # Ignore changes to the custom css files but keep the sample and main.
 /css/*
 !/css/custom.css.sample
